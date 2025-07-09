@@ -50,8 +50,8 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Welcome to DevOps</h1>
-        <p>Today is Sunday </p>
+        <h1>Welcome to Eswar College</h1>
+        <p>Intership Programme on Cloud & DevOps </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
